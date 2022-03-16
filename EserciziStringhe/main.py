@@ -13,7 +13,7 @@ print(nome.title())
 
 # 2-5: stampare una citazione
 autore = "Luca Pinciroli"
-frase = "meglio il culo gelato che il gelato nel culo"
+frase = "meglio il culo gelato che il gelato nel culo [OTTIMA CITAZIONE]"
 citazione = f'{autore} una volta disse: "{frase}".'
 print(citazione)
 
